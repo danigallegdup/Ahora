@@ -1,5 +1,25 @@
 # Ahora
 
+-----------------------------------------
+|            Ahora                     |
+|---------------------------------------|
+|                                       |
+|  Add a New Task                       |
+|  Title:         [_______________]     |
+|  Priority:      [_______________]     |
+|  Estimated Time:[_______________]     |
+|                                       |
+|  [ Add Task ]                         |
+|---------------------------------------|
+|          Task List                    |
+|---------------------------------------|
+|  Task 1               [Complete]  [Delete] |
+|  Task 2               [Complete]  [Delete] |
+|  Task 3               [Complete]  [Delete] |
+|  ...                                    |
+-----------------------------------------
+
+
 **Ahora** is a JavaScript-based productivity game designed to help you get as much done in an hour as possible. Challenge yourself to complete tasks efficiently, track your progress, and earn rewards for staying focused and productive.
 
 ## Table of Contents
@@ -16,6 +36,25 @@
 ## Introduction
 
 Ahora is a gamified productivity tool that encourages you to complete your tasks within a set time frame. It blends time management, goal setting, and rewards to keep you engaged and motivated. Whether you're looking to enhance your daily routine or tackle a specific project, Ahora is here to help you achieve your goals.
+
+-----------------------------------------
+|            Ahora                     |
+|---------------------------------------|
+|                                       |
+|  Add a New Task                       |
+|  Title:         [_______________]     |
+|  Priority:      [_______________]     |
+|  Estimated Time:[_______________]     |
+|                                       |
+|  [ Add Task ]                         |
+|---------------------------------------|
+|          Task List                    |
+|---------------------------------------|
+|  Task 1               [Complete]  [Delete] |
+|  Task 2               [Complete]  [Delete] |
+|  Task 3               [Complete]  [Delete] |
+|  ...                                    |
+-----------------------------------------
 
 ## Features
 
